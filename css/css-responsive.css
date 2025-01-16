@@ -1,0 +1,670 @@
+@media (min-width:0) and (max-width:767px) {
+    .snapwidget-widget {
+        height: 125px !important;
+    }
+
+    .director-home {
+        border: 10px solid #fff;
+        border-radius: 10px;
+        box-shadow: 0px 0px 6px 3px #bbb;
+        padding: 0px;
+    }
+
+    #header form#lab_search {
+        display: none !important;
+    }
+
+    p {
+        font-size: 13px !important;
+    }
+
+    .modal-body {
+        padding: 0 !important;
+    }
+
+    .Loginbtn_info {
+        display: none;
+    }
+
+    .content .select2-container--default .select2-selection--single {
+        margin-right: 0 !important;
+        margin-bottom: 5px;
+    }
+
+    .team .container .row.space .col.col-md-6.col-lg-4.col-xl-4 {
+        padding: 0;
+    }
+
+    .MenuBox {
+        display: block !important;
+    }
+
+    section.faq-section .container {
+        padding: 0;
+    }
+
+    .img_right {
+        padding: 10px !important;
+    }
+
+    .LoginLogo {
+        display: none !important;
+    }
+
+    .card-title {
+        font-size: 20px;
+        margin-bottom: 0.75rem !important;
+    }
+
+    .loginBox {
+        margin: 0 !important;
+    }
+
+    .loginDiv {
+        padding: 20px !important;
+    }
+
+    .card-text {
+        margin-bottom: 20px !important;
+    }
+
+    #sidebar .row .col-md-3.bg-light.py-5 {
+        padding: 10px !important;
+    }
+
+    .booking-form {
+        padding: 15px 13px;
+    }
+
+    .DirHead {
+        width: 100% !important;
+        padding: 17px 40px !important;
+        top: 0 !important;
+    }
+
+    #header .container {
+        padding: 0 !important;
+    }
+
+
+    .search {
+        width: 300px;
+    }
+
+    .dr_Name {
+        font-size: 20px !important;
+
+    }
+
+    #Dir_Msz {
+        padding: 35px 0;
+    }
+
+    .msz_tag {
+        font-size: 15px;
+        margin-top: 26px;
+    }
+
+    .state, .city {
+        margin: 5px 0;
+        width: 100% !important;
+        margin-bottom: 5px !important;
+        border-radius: 5px !important;
+    }
+
+    #footerMenu {
+        display: none !important;
+    }
+
+    #footerTests, #footerinfo {
+        padding: 0 !important;
+    }
+
+    #findbtn {
+        margin: 10px 0;
+        width: 100% !important;
+    }
+
+    .content {
+        top: 0 !important;
+        padding: 25px;
+    }
+
+    .cntr_title::after, .cntr_title::before {
+        height: 10px;
+        width: 3%;
+        margin: 0 6px;
+    }
+
+    section#Dir_Msz .container .row {
+        flex-direction: column-reverse;
+    }
+
+    .tag_Line {
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .space {
+        padding: 30px 0;
+    }
+
+    .banner__text {
+        padding: 17px;
+        margin-top: 0px !important;
+    }
+
+    .simple-banner {
+        background-image: none;
+    }
+
+    .franchise {
+        padding: 0 15px;
+    }
+
+    .footer #footer__navigation li a {
+        font-size: 13px;
+    }
+
+    .footer .container .row .col-md-9 .navigation .row .title_h5, .footer .container .row .col-12 .footer__item .title_h5 {
+        font-size: 15px;
+        margin-top: 15px
+    }
+
+    .site-logo img.img-fluid.lazy.loaded {
+        width: 126px;
+        margin: auto;
+        display: block;
+    }
+
+    .__title_ {
+        font-size: 35px !important;
+    }
+
+
+    .cntr_title {
+        text-align: center;
+        font-family: 'boldfont';
+        font-size: 13px;
+    }
+
+    #slider .owl-controls .owl-buttons>div.owl-prev {
+        top: 66px;
+        left: 20px;
+    }
+
+    #slider .owl-controls .owl-buttons>div.owl-next {
+        top: 66px;
+    }
+
+    .footer__item .site-logo {
+        display: none !important;
+    }
+
+    #slider .owl-controls .owl-buttons>div {
+        font-size: 0;
+        background-size: 20px !important;
+    }
+
+    #Top_bar {
+        display: none;
+    }
+
+    /* .menu {
+        padding: 0;
+
+    } */
+
+    .navbar {
+        padding: 0;
+        align-items: center;
+        justify-content: right;
+        margin-bottom: -47px;
+    }
+
+    .nav-item {
+        padding-left: 0px;
+
+    }
+
+    .navbar-toggler {
+        position: relative;
+        top: -50px;
+    }
+
+    /* .btn_info {
+        margin-top: 13px;
+    } */
+
+    .navbar-nav {
+
+        padding: 20px;
+        padding-top: 0;
+        background: #ed9d991a;
+    }
+
+    .navbar-collapse {
+        margin-top: -31px;
+        margin-bottom: 60px;
+    }
+
+    .navbar-nav .nav-link, .btn_Menu {
+        border-bottom: 1px dashed;
+    }
+
+    .btn_Menu {
+        color: #000;
+        font-size: 14px;
+        background-color: #fdf5f5 !important;
+        border-radius: 0 !important;
+        padding-right: 0;
+        padding-left: 0;
+        width: 100%;
+    }
+
+    .btn_infoOutline {
+        padding: 10px 11px;
+        font-size: 11px;
+    }
+
+    .btn_info {
+        padding: 10px 39px !important;
+        font-size: 11px !important;
+    }
+
+    .navbar-nav .nav-item:nth-child(7),
+    .navbar-nav .nav-item:nth-child(8) {
+        border-bottom: none;
+    }
+
+    .logo {
+        height: auto;
+        width: 80px;
+    }
+
+    .goods .__image img {
+        max-height: 237px;
+    }
+
+    .img_banner {
+        min-height: auto;
+    }
+
+    .goods .__content {
+        text-align: center;
+    }
+
+    .inner {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+
+
+    /* About us page */
+
+    .bg_img {
+        padding: 10px 0;
+    }
+
+    .mainheading p.sitetitle {
+        font-size: 17px;
+        margin-bottom: 5px;
+    }
+
+    .lead {
+        font-size: 10px !important;
+    }
+
+    .about-section .image-column .image-2 {
+        bottom: 0;
+    }
+    .about-section .image-column .inner-column{
+        padding-left: 0 !important;
+    }
+    .about-section .image-column .inner-column:before {
+        display: none;
+    }
+
+    .about-section .text, .list-style-one li {
+        font-size: 13px;
+    }
+
+    .list-style-one li {
+        font-size: 13px;
+        padding-left: 25px;
+    }
+
+    .list-style-one li:before {
+        font-size: 13px;
+        padding: 5px;
+    }
+
+    .col {
+        margin-bottom: 10px;
+    }
+
+    /* tests */
+
+    #siderbarSearch {
+        width: 300px !important;
+    }
+
+    .allTests p.tag_Line {
+        padding: 10px;
+    }
+
+    section#sidebar .row {
+        margin: 0;
+    }
+
+    section#sidebar .row .col-md-9 .container {
+        padding: 0;
+    }
+
+    .single-contact-address-box.main-branch {
+        margin: 10px 0 !important;
+    }
+
+    .single-contact-address-box.main-branch .inner ul li .title p, .single-contact-address-box.main-branch .inner ul li .text p {
+        font-size: 12px;
+    }
+
+    .contact-form {
+        padding: 0px;
+    }
+
+    #contact-form .col-xl-12, #contact-form .col-xl-6 {
+        padding: 0 1px;
+    }
+
+    .contact-info-area .container .row .col-xl-12.col-lg-12.col-md-12.col-sm-12 {
+        padding: 0 !important;
+    }
+
+    .contact-form .text-box {
+        float: none !important;
+    }
+
+    .contact-form .sec-title-style1 {
+        padding: 12px 0 0 0;
+        position: relative;
+        display: block;
+        padding-bottom: 15px;
+        width: 100%;
+    }
+
+    .sec-title-style1 .title {
+        font-size: 13px;
+    }
+
+    .contact-form .text-box {
+        width: 100%;
+    }
+
+    .contentInfo, .space .container-fluid .row {
+        flex-direction: column-reverse !important;
+    }
+
+    .space .container-fluid .row .col-md-6.p-5, .space .container-fluid .row .col-md-6 {
+        padding: 0px !important;
+    }
+
+    /* .LabInfo .space.container {
+        padding: 20px;
+    } */
+
+    .row {
+        margin: 0;
+    }
+
+    .prevnextlinks .thepostlink {
+        font-size: 14px;
+    }
+
+    #sidebar .row .col-md-9 {
+        padding: 0;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .contact-form {
+        padding: 15px !important;
+    }
+
+    .nav-link {
+        font-size: 12px !important;
+    }
+
+    .nav-item {
+        padding-left: 12px !important;
+    }
+
+    #header form#lab_search {
+        display: none !important;
+    }
+
+    .p-5 {
+        padding: 1rem !important;
+    }
+
+    .DirHead {
+        padding: 17px 30px;
+        width: 400px;
+        top: 15px;
+    }
+
+    .dr_Name {
+        font-size: 23px;
+    }
+
+    .msz_tag {
+        font-size: 15px;
+        margin-top: 30px;
+
+    }
+
+    p, .tag_Line, .text {
+        font-size: 13px !important;
+
+    }
+
+    .__title_ {
+        font-size: 40px;
+    }
+
+    .cntr_title {
+        font-size: 18px;
+    }
+
+    .content {
+        padding: 25px 0;
+        top: 0;
+    }
+
+    .goods .__image img {
+        max-height: 240px;
+    }
+
+    .space {
+        padding: 35px 0px;
+    }
+
+    .footer #footer__navigation li a {
+        font-size: 13px;
+    }
+
+    .footer .container .row .col-md-9 .navigation .row .title_h5, .footer .container .row .col-12 .footer__item .title_h5 {
+        font-size: 14px;
+    }
+
+    /* .advantages {
+        margin: 20px 0;
+    }
+
+    #offer {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .__title {
+        text-align: center;
+        font-family: 'boldfont';
+        font-size: 30px;
+        font-weight: 700;
+    } */
+
+    #slider .owl-controls .owl-buttons>div.owl-prev {
+        top: 125px;
+        left: 20px;
+    }
+
+    #slider .owl-controls .owl-buttons>div.owl-next {
+        top: 125px;
+    }
+
+    #slider .owl-controls .owl-buttons>div {
+
+        background-size: 30px !important;
+    }
+
+    p.mailID, p.mobileNo {
+        display: none;
+    }
+
+    .logo {
+        height: auto;
+        width: 100px;
+    }
+
+    .btn_info {
+        padding: 10px 25px;
+        font-size: 10px;
+    }
+
+    /* About us */
+    .col {
+        margin-bottom: 10px;
+    }
+
+    figure.image-1 a img {
+        width: 75%;
+    }
+
+    figure.image-1 {
+        margin: 0;
+    }
+
+    .about-section .image-column .image-2 {
+        left: 140px;
+        bottom: -50px;
+    }
+
+    .Loginbtn_info {
+        padding: 12px 25px;
+        font-size: 10px;
+    }
+
+    .about-section .image-column .inner-column:before {
+        top: -50px;
+    }
+
+    /* Tests */
+
+    #siderbarSearch {
+        width: 200px !important;
+    }
+
+    #sidebar .row .col-md-3 .side-nav .nav-menu {
+        padding: 0;
+        width: 212px
+    }
+
+    section#sidebar .row {
+        margin: 0px;
+    }
+
+}
+
+@media (min-width:992px) and (max-width:1200px) {
+    .img_banner {
+        height: auto;
+        width: 100%;
+    }
+
+    .Loginbtn_info {
+        padding: 12px 20px !important;
+
+    }
+
+    .navbar {
+        padding: 0 !important;
+    }
+
+    #mobile_login {
+        display: none !important;
+    }
+
+    .nav-item {
+
+        padding-left: 0 !important;
+    }
+
+    a.nav-link {
+        min-width: 67px !important;
+    }
+
+    .mailID {
+        display: none;
+    }
+
+    .btn_info {
+        padding: 10px 25px;
+    }
+
+    .content {
+        top: -4px;
+    }
+
+    .cntr_title {
+        font-size: 18px;
+    }
+
+    .col {
+        margin-bottom: 10px;
+    }
+
+    #sidebar .row .col-md-3 .side-nav .nav-menu {
+        width: 225px;
+    }
+
+    #siderbarSearch {
+        width: 260px !important;
+    }
+}
+
+@media (min-width:1201px) and (max-width:1500px) {
+    .img_banner {
+        height: auto;
+        width: 100%;
+    }
+
+    #sidebar .row .col-md-3 .side-nav .nav-menu {
+        width: 290px;
+        ;
+    }
+
+    #siderbarSearch {
+        width: 280px !important;
+    }
+
+    #mobile_login {
+        display: none !important;
+    }
+}
+
+@media (min-width:1500px) and (max-width:4000px) {
+    #mobile_login {
+        display: none !important;
+    }
+}
